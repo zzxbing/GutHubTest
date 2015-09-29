@@ -10,3 +10,8 @@ void Test()
 {
 	std::cout<<"Hello World!"<<std::endl;
 }
+
+void Hello()
+{
+	std::cout<<"Hello Holiday."<<std::endl;
+}
